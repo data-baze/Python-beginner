@@ -1,2 +1,2 @@
 # Python-beginner
-Quick code snippets that helped me while learning 
+Quick code snippets that helped me while learning Python
