@@ -26,3 +26,5 @@ while num <= 1000000:
     if num == 13:
         break
     print(num)
+
+    # break a while loop
